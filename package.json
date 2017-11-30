@@ -1,0 +1,31 @@
+{
+  "name": "mode-13-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "grunt test",
+    "wait": "grunt wait",
+    "doc": "grunt doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwart/mode-13-8.git"
+  },
+  "author": "rwart",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rwart/mode-13-8/issues"
+  },
+  "homepage": "https://github.com/rwart/mode-13-8e#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jsdoc": "^2.2.0"
+  }
+
+}
